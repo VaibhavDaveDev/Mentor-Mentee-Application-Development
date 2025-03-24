@@ -74,7 +74,7 @@ A web application for connecting mentors and mentees, built with FastAPI backend
 
 6. Run the backend server:
    ```
-   uvicorn app:main --reload
+   uvicorn main:app --reload
    ```
 
 ### Frontend Setup
